@@ -1,0 +1,34 @@
+h1 {
+    font-size: 66px;
+    color: antiquewhite;
+    text-align: center;
+    text-shadow: 1px 1px rgb(106, 106, 106),
+    1px  1px 0 rgb(83, 83, 83),
+    2px  2px 0 rgb(83, 83, 83),
+    3px  3px 0 rgb(83, 83, 83),
+    4px  4px 0 rgb(83, 83, 83),
+    5px  5px 0 rgb(83, 83, 83);
+}
+.pivo {
+    text-align: center;
+    margin-top: 190px;
+    font-size: 30px;
+    color: antiquewhite;
+    text-shadow: 1px 1px rgb(106, 106, 106),
+    1px  1px 0 rgb(83, 83, 83),
+    2px  2px 0 rgb(83, 83, 83),
+    3px  3px 0 rgb(83, 83, 83),
+    4px  4px 0 rgb(83, 83, 83),
+    5px  5px 0 rgb(83, 83, 83);
+}
+.vodka {
+    text-align: center;
+    font-size: 30px;
+    color: antiquewhite;
+    text-shadow: 1px 1px rgb(106, 106, 106),
+    1px  1px 0 rgb(83, 83, 83),
+    2px  2px 0 rgb(83, 83, 83),
+    3px  3px 0 rgb(83, 83, 83),
+    4px  4px 0 rgb(83, 83, 83),
+    5px  5px 0 rgb(83, 83, 83);
+}

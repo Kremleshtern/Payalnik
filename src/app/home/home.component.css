@@ -1,0 +1,38 @@
+.block {
+    width: 40%;
+}
+
+.block-right {
+    margin-left: 50%;
+}
+.block-left {
+    margin-left: 4%;
+}
+
+.block-title {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    font-size: 36px;
+    text-align: center;
+    color: antiquewhite;
+    text-shadow: 1px 1px rgb(106, 106, 106),
+    1px  1px 0 rgb(83, 83, 83),
+    2px  2px 0 rgb(83, 83, 83),
+    3px  3px 0 rgb(83, 83, 83),
+    4px  4px 0 rgb(83, 83, 83),
+    5px  5px 0 rgb(83, 83, 83);
+}
+
+.block-content {
+    background-color: #d6d4d4;
+    border-radius: 3px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+.block-img {
+    height: 270px;
+}
+
